@@ -1,6 +1,6 @@
 # WalletWatchBot 
 
-WalletWatchBot est un bot Telegram personnalisé que j'ai développé pour simplifier la gestion de mes dépenses quotidiennes. Pour créer ce boot je me suis inspirer de https://github.com/kevindegila. Ce bot utilise une combinaison de l'API Speech-to-Text de Google Cloud pour permettre l'entrée vocale des dépenses, l'API de Chat GPT pour interagir avec l'utilisateur de manière conversationnelle, et une base de données SQL (SQLite) pour stocker de manière sécurisée les informations liées aux dépenses.
+WalletWatchBot est un bot Telegram personnalisé que j'ai développé pour simplifier la gestion de mes dépenses quotidiennes. Pour créer ce bot je me suis inspirer de https://github.com/kevindegila. Ce bot utilise une combinaison de l'API Speech-to-Text de Google Cloud pour permettre l'entrée vocale des dépenses, l'API de Chat GPT pour interagir avec l'utilisateur de manière conversationnelle, et une base de données SQL (SQLite) pour stocker de manière sécurisée les informations liées aux dépenses.
 
 ## Fonctionnalités principales
 
