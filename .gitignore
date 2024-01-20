@@ -1,0 +1,6 @@
+voice_messages
+.env
+__pycache__
+.ipynb_checkpoints
+SpentAI.ipynb
+speech-bot-telegram-b28a0811ca9c.json
